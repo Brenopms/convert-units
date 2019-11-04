@@ -89,5 +89,5 @@ declare module "convert-units-enchanced" {
 
     function convert(value: number): Convert;
 
-    export = convert;
+    export default convert;
 }
